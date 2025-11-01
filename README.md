@@ -25,6 +25,7 @@ It is built using **HTML, CSS, and JavaScript** and shows country flags for sele
  🧑‍💻 Author
 **Vanshika Kamboj**    
 📧 kambojvanshika72@gmail.com  
-💼 linkedin.com/in/vanshika-kamboj-84517b252
+💼 www.linkedin.com/in/vanshika-kamboj-84517b252
+
 
 
